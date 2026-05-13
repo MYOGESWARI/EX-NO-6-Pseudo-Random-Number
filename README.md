@@ -42,9 +42,8 @@ End the program.
     
 # OUTPUT:
 
-<img width="795" height="781" alt="image" src="https://github.com/user-attachments/assets/6653a94e-74cf-42f9-80a7-13e9cc0d9998" />
+<img width="1381" height="692" alt="Screenshot 2026-05-13 102057" src="https://github.com/user-attachments/assets/68771b40-a23e-4465-b66a-cec8e43f856c" />
 
-<img width="889" height="407" alt="image" src="https://github.com/user-attachments/assets/b4ea8003-f365-4e7d-a535-8a7d307533eb" />
 
 
 # RESULT:
